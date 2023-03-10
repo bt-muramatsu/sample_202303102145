@@ -1,1 +1,12 @@
-branch-mura で file1.txt を 2023-03-10-22:00 に更新
+main最新
+main で file1.txt を 2023-03-10 22:20 に更新 をコミット
+
+branch-mura最新
+branch-mura で file1.txt を 2023-03-10-22:00 に更新 をコミット
+
+の競合を解消して branch-mura へコミットするつもり 2023-03-10 22:32
+だが、
+Resolving conflicts between main and branch-mura and committing changes → main
+Commit updates to the main branch.
+となっており、mainにコミットされるっぽい
+とりあえずそのままresolveしてマージしてみる
