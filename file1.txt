@@ -1,1 +1,1 @@
-main file1.txt 2023-03-10-21:50に更新
+branch-koi で file1.txt を 2023-03-10-21:55 に更新
